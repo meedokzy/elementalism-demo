@@ -1,0 +1,57 @@
+@font-face {
+    font-family: Lexipa;
+    src: url('../Lexipa.TTF');
+    font-style: normal;
+}
+
+body {
+    background-color: #111111;
+    text-align: center;
+    color: #FFFFFF;
+    font-family: Lexipa;
+    font-style: normal;
+}
+
+.about img {
+    position: absolute;
+    margin-top: -40px;
+    left: 50px;
+}
+
+.team img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-top: -40px;
+}
+
+.demo img {
+    position: absolute;
+    margin-top: -40px;
+    right: 50px;
+}
+
+.instagram img {
+    position: absolute;
+    right: 20px;
+    margin-top: -60px;
+}
+
+.twitter img {
+    position: absolute;
+    right: 70px;
+    margin-top: -60px;
+}
+
+.tumblr img {
+    position: absolute;
+    right: 120px;
+    margin-top: -60px;
+}
+
+.discord img {
+    position: absolute;
+    right: 170px;
+    margin-top: -60px;
+}

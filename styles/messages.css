@@ -1,0 +1,41 @@
+body {
+    background-color:#232323 ;
+}
+
+#face {
+    font-family: Arial;
+    color: #FFFFFF;
+    position: absolute;
+    font-style: bold;
+    font-size: 80px;
+    left: 70px;
+    top: 20px;
+}
+
+#error-code {
+    font-family: Arial;
+    color: #FFFFFF;
+    font-size: 10px;
+    position: absolute;
+    font-style: normal;
+}
+
+#option1 {
+    font-family: Arial;
+    color: #FFFFFF;
+    font-size: 13px;
+    position: absolute; 
+}
+
+#option2 {
+    font-family: Arial;
+    position: absolute;
+    font-size: 13px;
+    top: 23px;
+}
+
+#message {
+    font-family: Arial;
+    color: #FFFFFF;
+    font-size: 26px;
+}
