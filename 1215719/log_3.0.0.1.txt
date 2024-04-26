@@ -1,0 +1,31 @@
+Version 3.0.0.1
+[09/08/2020 - 8 September, 2020]
+
+- Launch Day
+
+Finally the day came :D
+
+It took 6 months to produce, songs, sprites, cutscenes, scripts,
+it was literally everything.
+
+The scripts I just modified the defaults of the RPG Maker engine itself,
+but I will give credit to the people who made the other script
+game modification.
+
+- [Kio Kurashi] https://steamcommunity.com/app/220700/discussions/2/598198356170566826/
+- [Syureri] https://centrorpg.com/index.php?topic=24714.0
+- [Rikifive] https://www.rpgmakercentral.com/topic/41275-txt-or-dll/
+
+I put the credits, because then you will think that I did it
+the full script of the demo. (and I also feel guilty for not putting the
+in-game credits ;-;). Ruby code, it's kind of complicated, so
+I didn’t have the patience to learn. (actually I don't even know where to learn :v).
+
+I did all the songs for hours as my FL Studio was trial (limited).
+
+Thank you so much for my friends and the Firettle Team for helping me
+in this demo ^-^
+
+Maybe the next updates will come in this demo, stay tuned. ;)
+
+- MeeDokzy

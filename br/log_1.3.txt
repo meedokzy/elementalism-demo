@@ -1,0 +1,18 @@
+Versão 1.3
+[20/09/2020 - 20 de Setembro de 2020]
+
+- Melhoria em inglês
+- Instruções adicionadas em PNG
+
+Eu decidi em colocar as instruções para quem tem dificuldade em
+por onde começar a jogar. Adicionei controles, atalhos, e muitos
+outros.
+
+Eu realmente estou mal em inglês, na versão completa não sou eu que
+irei traduzir em inglês.
+
+Mas enfim, é a versão final da demo!
+
+Não receberá mais atualizações ou melhorias ou algo do tipo, foi mal :/
+
+-MeeDokzy
